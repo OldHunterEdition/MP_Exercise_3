@@ -1,5 +1,8 @@
 -- main.lua
 
+-- 5450 Mobile Programming Exercise 3
+-- Chengran Sun # 1264329
+
 local physics = require("physics")
 
 physics.start()
