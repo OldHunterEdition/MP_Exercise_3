@@ -1,0 +1,5 @@
+{
+  "diagnostics": {
+    "globals": ["display", "physics", "timer", "Runtime", "transition", "system", "native"]
+  }
+}
